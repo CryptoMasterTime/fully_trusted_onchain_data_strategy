@@ -3,3 +3,5 @@ https://ethereum.org/zh/developers/docs/nodes-and-clients/run-a-node/
 https://geth.ethereum.org/downloads
 
 https://geth.ethereum.org/docs/getting-started/installing-geth
+
+geth --datadir G:\
