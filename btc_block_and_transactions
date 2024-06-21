@@ -1,0 +1,226 @@
+https://btcscan.org/api/blocks
+
+[
+  {
+    "id": "000000000000000000003f620e65976fc1768e6f81705cc7fdf25cfcb421825a",
+    "height": 848860,
+    "version": 637534208,
+    "timestamp": 1718952860,
+    "tx_count": 2885,
+    "size": 1470660,
+    "weight": 3993384,
+    "merkle_root": "7dc6c2ba1034bdae09dd8f97eb8c1e35d00e2789c2e93f4c5a9dccf1cb4024f9",
+    "previousblockhash": "00000000000000000001c7f704605a00db1f41ecaa83dea1705b61d14c20cf82",
+    "mediantime": 1718951517,
+    "nonce": 2704405617,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  },
+  {
+    "id": "00000000000000000001c7f704605a00db1f41ecaa83dea1705b61d14c20cf82",
+    "height": 848859,
+    "version": 720306176,
+    "timestamp": 1718951828,
+    "tx_count": 6299,
+    "size": 1589808,
+    "weight": 3993141,
+    "merkle_root": "326e469ef1f2cef307b74869a872865b7c529f443691a9e3ac5c6a8875e159a3",
+    "previousblockhash": "0000000000000000000331d95ab756162b31d4bb0693cba214704ff79c9344fc",
+    "mediantime": 1718951049,
+    "nonce": 4101474428,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  },
+  {
+    "id": "0000000000000000000331d95ab756162b31d4bb0693cba214704ff79c9344fc",
+    "height": 848858,
+    "version": 694542336,
+    "timestamp": 1718951705,
+    "tx_count": 7268,
+    "size": 1543717,
+    "weight": 3993637,
+    "merkle_root": "f497e4bc936b8e470c929931944323f80e4a319a75b4f2fd90b88eb614905a7b",
+    "previousblockhash": "00000000000000000001bd02609370e4b2abe9aa17ed0e0ed1be6eaa35c67004",
+    "mediantime": 1718947771,
+    "nonce": 4027795816,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  },
+  {
+    "id": "00000000000000000001bd02609370e4b2abe9aa17ed0e0ed1be6eaa35c67004",
+    "height": 848857,
+    "version": 838860800,
+    "timestamp": 1718951687,
+    "tx_count": 3460,
+    "size": 1705804,
+    "weight": 3993190,
+    "merkle_root": "8d988703158e414ef0810ab49413dc6ceaee9e322394a7f604dbe6961ab72a5d",
+    "previousblockhash": "00000000000000000001f5973c95c5bbdbcc649c2db0e46fa6df458e463a2c0b",
+    "mediantime": 1718945360,
+    "nonce": 3640276771,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  },
+  {
+    "id": "00000000000000000001f5973c95c5bbdbcc649c2db0e46fa6df458e463a2c0b",
+    "height": 848856,
+    "version": 637534208,
+    "timestamp": 1718951661,
+    "tx_count": 2715,
+    "size": 1662875,
+    "weight": 3998048,
+    "merkle_root": "cbb28e9a8207ffbe54fa023fe3c920a688917b61f82dc460b756c74a3429372a",
+    "previousblockhash": "00000000000000000002d69902387d5c01c37103adf12aa2f712645bc8f63650",
+    "mediantime": 1718944969,
+    "nonce": 917369290,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  },
+  {
+    "id": "00000000000000000002d69902387d5c01c37103adf12aa2f712645bc8f63650",
+    "height": 848855,
+    "version": 891142144,
+    "timestamp": 1718951517,
+    "tx_count": 3611,
+    "size": 1554344,
+    "weight": 3993518,
+    "merkle_root": "e7b721fa82ad941adc5cbd39cd2516eed9e8f9998c864c09d4cf6d74d375dd6c",
+    "previousblockhash": "0000000000000000000127dfe43c8efb7c930c005ba64e27bbeaf72728a5a4fd",
+    "mediantime": 1718943696,
+    "nonce": 3347937648,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  },
+  {
+    "id": "0000000000000000000127dfe43c8efb7c930c005ba64e27bbeaf72728a5a4fd",
+    "height": 848854,
+    "version": 973078528,
+    "timestamp": 1718951049,
+    "tx_count": 3307,
+    "size": 1510942,
+    "weight": 3992986,
+    "merkle_root": "774c8ab905351f44b1cfec8c534abdd7055a3b4083070f82e3adf936de49f85a",
+    "previousblockhash": "00000000000000000001eaa9e353cd6dd06f5e7e958febf57e303579ac5f945d",
+    "mediantime": 1718943428,
+    "nonce": 3814884161,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  },
+  {
+    "id": "00000000000000000001eaa9e353cd6dd06f5e7e958febf57e303579ac5f945d",
+    "height": 848853,
+    "version": 639991808,
+    "timestamp": 1718947771,
+    "tx_count": 3133,
+    "size": 1479743,
+    "weight": 3993095,
+    "merkle_root": "d45aa9bbc8c652441c1a95a8cf86980226696f5c80f93d8c34665854ec50b843",
+    "previousblockhash": "00000000000000000002c0bb7fbd73339d038cf3556bb12fa7491dfff68911c3",
+    "mediantime": 1718943137,
+    "nonce": 2761878807,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  },
+  {
+    "id": "00000000000000000002c0bb7fbd73339d038cf3556bb12fa7491dfff68911c3",
+    "height": 848852,
+    "version": 851836928,
+    "timestamp": 1718945360,
+    "tx_count": 3251,
+    "size": 1583102,
+    "weight": 3993224,
+    "merkle_root": "9fb5ab420269258609c3a13fbfbe84f0c8ef9563c2d8f16371341f8b5ec2a4f7",
+    "previousblockhash": "000000000000000000017371d3f0ee27d3cc505f0fc223e740e61af4d06a32d4",
+    "mediantime": 1718942655,
+    "nonce": 481684529,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  },
+  {
+    "id": "000000000000000000017371d3f0ee27d3cc505f0fc223e740e61af4d06a32d4",
+    "height": 848851,
+    "version": 536993796,
+    "timestamp": 1718944969,
+    "tx_count": 2352,
+    "size": 1630093,
+    "weight": 3993010,
+    "merkle_root": "aa918947ab1546762557a28c5648929b0ee626a68e6eb531fa6fe6e6aaf996ca",
+    "previousblockhash": "00000000000000000000ca43a8c21c7f687679d715384fb4b0388a532843623e",
+    "mediantime": 1718942368,
+    "nonce": 2571305645,
+    "bits": 386096421,
+    "difficulty": 83675262295059.9
+  }
+]
+
+
+
+
+
+
+
+
+https://btcscan.org/api/mempool/recent
+
+[
+  {
+    "txid": "bdd87797e2c47b8aaf7ce5c5d0a36f48644955c357308a561a78c35314f2b2de",
+    "fee": 1024,
+    "vsize": 127,
+    "value": 11006
+  },
+  {
+    "txid": "21154216ab32050e1762bc198248a30d8c1a36b02509ebc3d32ac58dfd4b658d",
+    "fee": 1024,
+    "vsize": 127,
+    "value": 15102
+  },
+  {
+    "txid": "38418a025b620afc9eaa2d5f8c6b0dd044095a7de81c1900282c3253d193c8ec",
+    "fee": 1024,
+    "vsize": 127,
+    "value": 14078
+  },
+  {
+    "txid": "a218fbd7b5df15dbed12a5a41eee6a0760cbd8e4916430fa13bbacaba84b14da",
+    "fee": 1024,
+    "vsize": 127,
+    "value": 3838
+  },
+  {
+    "txid": "a9c744b707689294557ab428a507c6504f9ce34800f8d224713159678d61db84",
+    "fee": 1024,
+    "vsize": 127,
+    "value": 4862
+  },
+  {
+    "txid": "42b6d914308c2f8d5e1cb556a791f15dbf8a541d908c0b0c77c314ab96c2dd64",
+    "fee": 1370,
+    "vsize": 170,
+    "value": 2814
+  },
+  {
+    "txid": "a33f1c65ddf54d6898460b5cba0627a8e3d4f815def6d22bd128b72a46c5a4f7",
+    "fee": 11605,
+    "vsize": 371,
+    "value": 12108448
+  },
+  {
+    "txid": "1e59550d33543e24d32b6ad2772a8641c26fde0f8d62e478c5c7671fba7502ce",
+    "fee": 2880,
+    "vsize": 181,
+    "value": 173157
+  },
+  {
+    "txid": "1dbb3f40e2a7dc6b137628bee2f345876a03750eab294a54abd67f6533d5e37c",
+    "fee": 1024,
+    "vsize": 127,
+    "value": 6910
+  },
+  {
+    "txid": "09ad9688cdd1dfad7117f8a13a2d8eb2951e16cf8bfa1df759aabcab7170af17",
+    "fee": 1024,
+    "vsize": 127,
+    "value": 9982
+  }
+]
