@@ -4,4 +4,4 @@ https://geth.ethereum.org/downloads
 
 https://geth.ethereum.org/docs/getting-started/installing-geth
 
-geth --datadir G:\ethereumData
+geth --datadir G:\EthereumData
