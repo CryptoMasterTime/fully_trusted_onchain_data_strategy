@@ -13,3 +13,5 @@ https://ethernodes.org/history
 https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa
 
 https://etherscan.io/chart/avg-txfee-usd
+
+after beacon chain finished sync then the excute chain will start to sync 
