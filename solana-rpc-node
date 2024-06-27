@@ -1,1 +1,50 @@
 https://docs.solanalabs.com/operations/validator-or-rpc-node
+
+https://docs.solanalabs.com/clusters/
+
+https://docs.solanalabs.com/operations/requirements
+
+
+
+Hardware Recommendations
+
+CPU
+12 cores / 24 threads, or more
+2.8GHz base clock speed, or faster
+SHA extensions instruction support
+AMD Gen 3 or newer
+Intel Ice Lake or newer
+AVX2 instruction support (to use official release binaries, self-compile otherwise)
+Support for AVX512f is helpful
+
+RAM
+256GB or more
+Error Correction Code (ECC) memory is suggested
+Motherboard with 512GB capacity suggested
+
+Disk
+PCIe Gen3 x4 NVME SSD, or better
+Accounts: 500GB, or larger. High TBW (Total Bytes Written)
+Ledger: 1TB or larger. High TBW suggested
+OS: (Optional) 500GB, or larger. SATA OK
+The OS may be installed on the ledger disk, though testing has shown better performance with the ledger on its own disk
+Accounts and ledger can be stored on the same disk, however due to high IOPS, this is not recommended
+The Samsung 970 and 980 Pro series SSDs are popular with the validator community
+
+GPUs
+Not necessary at this time
+Operators in the validator community do no use GPUs currently
+
+
+RPC Node Recommendations
+The hardware recommendations above should be considered bare minimums if the validator is intended to be employed as an RPC node. To provide full functionality and improved reliability, the following adjustments should be made.
+
+CPU
+16 cores / 32 threads, or more
+
+RAM
+512 GB or more if account-index is used
+
+Disk
+Consider a larger ledger disk if longer transaction history is required
+Accounts and ledger should not be stored on the same disk
