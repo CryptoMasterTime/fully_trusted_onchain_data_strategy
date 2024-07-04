@@ -21,8 +21,8 @@ def decrypt_api_key(encrypted_str, secret_key):
     return decrypted_data.decode()
 
 if __name__ == "__main__":
-    api_key = "secret-api-key"
-    password = "cmtqpax9009"
+    api_key =  "*************"
+    password = "*************"
     secret_key = generate_secret_key_from_password(password)
     encrypted_str = encrypt_api_key(api_key, secret_key)
     print(f"Encrypted String: {encrypted_str}")
